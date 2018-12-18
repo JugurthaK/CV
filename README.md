@@ -27,7 +27,7 @@ Dans le cadre du cours de Modélisations Mathématiques, nous devions créer en 
 
 ## Projet Associatif : 
 _Dans le câdre de mon mandat de président d'association étudiante j'ai eu l'occasion de travailler sur beaucoup de projets_
-![Le Mage AEIC](https://dev.aeic.online/img/AEIC-Icon.svg)
+![Le Mage AEIC](https://dev.aeic.online/img/AEIC-Icon.svg =200x200)
 
 #### Site AEIC
 Initialement un site hand-made en PHP (dans un cadre scolaire). Qui va évoluer vers un WordPress pour permettre une reprise plus facile pour les étudiants et surtout une plus grande extensibilité.
