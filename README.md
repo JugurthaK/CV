@@ -27,7 +27,6 @@ Dans le cadre du cours de Modélisations Mathématiques, nous devions créer en 
 
 ## Projet Associatif : 
 _Dans le câdre de mon mandat de président d'association étudiante j'ai eu l'occasion de travailler sur beaucoup de projets_
-![Le Mage AEIC](https://dev.aeic.online/img/AEIC-Icon.svg =200x200)
 
 #### Site AEIC
 Initialement un site hand-made en PHP (dans un cadre scolaire). Qui va évoluer vers un WordPress pour permettre une reprise plus facile pour les étudiants et surtout une plus grande extensibilité.
@@ -38,9 +37,25 @@ Le site reprendra une présentation des 4 maisons, la possibilité d'écrire des
     * Bootstrap
     * PHP
     * JS
+* Futurement :
+    * CMS WordPress
 
 #### AEIC Shop
-Nous avons commercialisé des vêtements à l'éffigie de notre marque 
+Nous avons commercialisé des vêtements à l'éffigie de notre Logo, pour se faire nous avons décider de mettre en place un shop. On a utilisé le CMS Prestashop pour annuler la part de risque par rapport aux paiements sécurisés. 
+Le site est disponible à cette adresse : https://shop.aeic.online :shirt:
+* Technologie Utilisée :
+    * Prestashop
 
+#### AEIC Bot
+L'AEIC dispose d'une sous-structure e-Sport, pour faciliter au rendre indépendant ce pôle de toute intervention humaine au niveau gestion, un Bot :speech_balloon: est disponible. Il se charge de la répartition des groupes, de la mise en place des compétitions, de l'arbre de tournois et des récompenses. 
+* Technologie Utilisée :
+    * NodeJS (Discord.js)
 
+#### AEIC API
+L'hébergeur Web de l'association ne fournissant pas une accéssibilité aux BDD depuis une URL autre que *.aeic.online m'a forcé à développer une API pour interroger ma BDD depuis des applications externes et pouvoir faire des opérations CRUD assez facilement. Je l'ai sécurisé en ajoutant une XKEY à faire passer dans le header de la requête, et seul moi et les personnes autorisées à exploiter l'API dispose d'une clé.
+    Le site est disponible ici : https://api.aeic.online
+* Technologie Utilisée :
+    * PHP (car l'hébergeur n'offre pas la possibilité de déployer du NodeJS)
+
+     
 
