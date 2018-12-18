@@ -25,6 +25,22 @@ Dans le cadre du cours de Modélisations Mathématiques, nous devions créer en 
 * Technologie Utilisée :
     * SDL
 
+## Projet Associatif : 
+_Dans le câdre de mon mandat de président d'association étudiante j'ai eu l'occasion de travailler sur beaucoup de projets_
+![Le Mage AEIC](https://dev.aeic.online/img/AEIC-Icon.svg)
+
+#### Site AEIC
+Initialement un site hand-made en PHP (dans un cadre scolaire). Qui va évoluer vers un WordPress pour permettre une reprise plus facile pour les étudiants et surtout une plus grande extensibilité.
+Le site reprendra une présentation des 4 maisons, la possibilité d'écrire des articles mais surtout une interface entre Discord (système de chat en ligne) et le site via une Interface permettant d'alimenter les deux applications de manière symétrique _(une annonce écrite sur Discord sera repercutée sur le WordPress et inversement.)_ 
+    Disponible à cette adresse : https://aeic.online
+
+* Technologies Utilisées :
+    * Bootstrap
+    * PHP
+    * JS
+
+#### AEIC Shop
+Nous avons commercialisé des vêtements à l'éffigie de notre marque 
 
 
 
